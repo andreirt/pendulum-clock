@@ -3,27 +3,27 @@
 #include "ofMain.h"
 
 class ofApp : public ofBaseApp{
-    
+
     ofVideoGrabber grabber;
     int selectedCameraIndex = 0;
-    
+
     ofImage screenImage;
-    
+
     int step = 0;
     int y;
     int x;
     int speed;
     int height;
-    
-    int maxSpeed = 8;
-    int maxHeight = 12;
-    
+
+    int maxSpeed = 12;
+    int maxHeight = 16;
+
     int cameraWidth = 1920;
     int cameraHeight = 1080;
-    
+
     float lastTimeImageWasSaved = 0;
     int intervalToSaveImage = 15;
-    
+
     void startLine();
 
 	public:
@@ -40,5 +40,5 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-		
+
 };
