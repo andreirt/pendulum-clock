@@ -15,16 +15,18 @@ class ofApp : public ofBaseApp{
     int speed;
     int height;
 
-    int maxSpeed = 12;
-    int maxHeight = 16;
+    int maxSpeed = 16;
+    int maxHeight = 24;
 
-    int cameraWidth = 1920;
-    int cameraHeight = 1080;
+    int cameraWidth = 1280;
+    int cameraHeight = 720;
 
     float lastTimeImageWasSaved = 0;
     int intervalToSaveImage = 15;
 
-    void startLine();
+    void pickParameters();
+    void pickSpeed();
+    void paintPixel( int pixelX, int pixelY, ofPixels pixels, float strength );
 
 	public:
 		void setup();
