@@ -16,7 +16,7 @@ class ofApp : public ofBaseApp{
     int height;
 
     int maxSpeed = 16;
-    int maxHeight = 24;
+    int maxHeight = 48;
 
     int cameraWidth = 1280;
     int cameraHeight = 720;

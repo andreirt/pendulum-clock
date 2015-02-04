@@ -52,9 +52,9 @@ void ofApp::update(){
                 float halfHeight = ((float) this->height) / 2;
                 float alpha = 1.0;
                 if (j <halfHeight) {
-                    alpha = (((float) j) / halfHeight * 0.8) + 0.2;
+                    alpha = ((float) j) / halfHeight;
                 } else if (j >halfHeight) {
-                    alpha = (((float) height - j) / halfHeight * 0.8) + 0.2;
+                    alpha = ((float) height - j) / halfHeight;
                 }
 
                 this->paintPixel( this->x, this->y + j, pixels, alpha);
