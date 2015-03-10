@@ -1,6 +1,6 @@
 # Pendulum Clock
 
-Develope C++ / OpenFrameworks by Andrei Thomaz.
+Developed in C++ / OpenFrameworks by Andrei Thomaz.
 
 ### Building with Code::Blocks (Windows)
 
