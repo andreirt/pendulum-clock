@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
 
-    this->grabber.setDeviceID( 1 );
+    this->grabber.setDeviceID( 0 );
 
     this->grabber.setDesiredFrameRate(30);
     this->grabber.initGrabber(this->cameraWidth, this->cameraHeight);

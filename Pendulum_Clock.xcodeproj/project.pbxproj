@@ -9,7 +9,7 @@
 		<string>46</string>
 		<key>objects</key>
 		<dict>
-			<key>0E5715533540E2836FFD4C06</key>
+			<key>5E62D62D32EFCA8D05DDAD1A</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -20,11 +20,11 @@
 				<key>name</key>
 				<string>ofxUIWrapper.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIWrapper.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWrapper.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>BE8936EE89B7AE66E72E97CA</key>
+			<key>02677FA320D6C63B228A7562</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -35,18 +35,18 @@
 				<key>name</key>
 				<string>ofxUIWidgetWithLabel.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIWidgetWithLabel.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidgetWithLabel.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>491F24B07176610B61C44108</key>
+			<key>CE5D89B9893EAA12F511DCAC</key>
 			<dict>
 				<key>fileRef</key>
-				<string>A31A9A4D4B2F556B0CEF1579</string>
+				<string>5AD807D1AF254F978AB20B1C</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>A31A9A4D4B2F556B0CEF1579</key>
+			<key>5AD807D1AF254F978AB20B1C</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -57,11 +57,11 @@
 				<key>name</key>
 				<string>ofxUIWidgetWithLabel.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIWidgetWithLabel.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidgetWithLabel.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>2AD6CDA0AB0F6BFB9DECDA23</key>
+			<key>23FA31CAEA236B2C1E218497</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -72,11 +72,11 @@
 				<key>name</key>
 				<string>ofxUIWidgets.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIWidgets.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidgets.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>345CBC77008FCAA8463535BB</key>
+			<key>32BD050A579633ADBCA5AF6B</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -87,18 +87,18 @@
 				<key>name</key>
 				<string>ofxUIWidget.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIWidget.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidget.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>C10CFA96B0A5BDACFCC714F5</key>
+			<key>82845E1F8C90E1F5A99D9868</key>
 			<dict>
 				<key>fileRef</key>
-				<string>E7D3D8E6226A5BBA5A56EB6C</string>
+				<string>08A9C84B3CA68561BE01FF37</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>E7D3D8E6226A5BBA5A56EB6C</key>
+			<key>08A9C84B3CA68561BE01FF37</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -109,11 +109,11 @@
 				<key>name</key>
 				<string>ofxUIWidget.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIWidget.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIWidget.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>7BAA16ABA6B40BBD73179872</key>
+			<key>FCCBDB55B98DA36682809F03</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -124,18 +124,18 @@
 				<key>name</key>
 				<string>ofxUIWaveform.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIWaveform.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIWaveform.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>CAA5562946DBCD1B0495E835</key>
+			<key>AE281BEBF3A00F1FC37F3DA0</key>
 			<dict>
 				<key>fileRef</key>
-				<string>1C645F06B8FF80EA225F588A</string>
+				<string>9345327AA463407B3DADBADE</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>1C645F06B8FF80EA225F588A</key>
+			<key>9345327AA463407B3DADBADE</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -146,11 +146,11 @@
 				<key>name</key>
 				<string>ofxUIWaveform.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIWaveform.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIWaveform.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>89681FA84851BC712EF6B9E6</key>
+			<key>D1387F25A47EF6809B55B59C</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -161,18 +161,18 @@
 				<key>name</key>
 				<string>ofxUIValuePlotter.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIValuePlotter.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIValuePlotter.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>72D0017F250EAE0BF3DCA297</key>
+			<key>60012C723B05938A3D388335</key>
 			<dict>
 				<key>fileRef</key>
-				<string>42D1592B8EE16A9D34249DAC</string>
+				<string>4D902D60E5CCFA9F2554BC7C</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>42D1592B8EE16A9D34249DAC</key>
+			<key>4D902D60E5CCFA9F2554BC7C</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -183,11 +183,11 @@
 				<key>name</key>
 				<string>ofxUIValuePlotter.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIValuePlotter.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIValuePlotter.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>51A2A478E4E775362704818F</key>
+			<key>87035EFE3D4427294D4D1338</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -198,11 +198,11 @@
 				<key>name</key>
 				<string>ofxUIUtils.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIUtils.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIUtils.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>12C3D635927D88397FA6499C</key>
+			<key>8178EB9AA3C0268331AF3AF3</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -213,18 +213,18 @@
 				<key>name</key>
 				<string>ofxUIToggleMatrix.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIToggleMatrix.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIToggleMatrix.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>B7C881C4F462BDC57A1284B0</key>
+			<key>E3A1109F67D711D6C256031E</key>
 			<dict>
 				<key>fileRef</key>
-				<string>9ACA42AC2D0C6D912D64EDF4</string>
+				<string>702A2528CA64B397E9B91ABE</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>9ACA42AC2D0C6D912D64EDF4</key>
+			<key>702A2528CA64B397E9B91ABE</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -235,11 +235,11 @@
 				<key>name</key>
 				<string>ofxUIToggleMatrix.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIToggleMatrix.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIToggleMatrix.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>09705DBD46B6F6410F8BA95C</key>
+			<key>4117B8C24D49837D3DF9C23B</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -250,18 +250,18 @@
 				<key>name</key>
 				<string>ofxUIToggle.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIToggle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIToggle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>F51D903D90B78FDFC442C0AC</key>
+			<key>04C82720B149CE576B8CBB06</key>
 			<dict>
 				<key>fileRef</key>
-				<string>908522171C7FB1BBD02AB0FF</string>
+				<string>48CCCEA0C681DE8B4945111B</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>908522171C7FB1BBD02AB0FF</key>
+			<key>48CCCEA0C681DE8B4945111B</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -272,11 +272,11 @@
 				<key>name</key>
 				<string>ofxUIToggle.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIToggle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIToggle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>8190D587445A325A99E48F6F</key>
+			<key>E65D547C2CD6A84FC9AF15FA</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -287,18 +287,18 @@
 				<key>name</key>
 				<string>ofxUITextInput.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUITextInput.h</string>
+				<string>../../../addons/ofxUI/src/ofxUITextInput.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>1D2FA81C5AA9F9AE550A8A1C</key>
+			<key>F8D05F7C7F785CE323983B47</key>
 			<dict>
 				<key>fileRef</key>
-				<string>CB532F4D5899EFD82C642B0C</string>
+				<string>06C7032F68D99A145A53CB6F</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>CB532F4D5899EFD82C642B0C</key>
+			<key>06C7032F68D99A145A53CB6F</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -309,11 +309,11 @@
 				<key>name</key>
 				<string>ofxUITextInput.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUITextInput.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUITextInput.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>184D7E470C0729F136162106</key>
+			<key>F9DF961B5E7D4C4E1E5D029C</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -324,18 +324,18 @@
 				<key>name</key>
 				<string>ofxUITextArea.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUITextArea.h</string>
+				<string>../../../addons/ofxUI/src/ofxUITextArea.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>FD6B8AE5780E13E51C1402F7</key>
+			<key>C961BE22AB9A8CCF037FC18F</key>
 			<dict>
 				<key>fileRef</key>
-				<string>DBD5F0E4C15DE373DF527BBE</string>
+				<string>DBE31D52BCB0CE44B9D154F0</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>DBD5F0E4C15DE373DF527BBE</key>
+			<key>DBE31D52BCB0CE44B9D154F0</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -346,11 +346,11 @@
 				<key>name</key>
 				<string>ofxUITextArea.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUITextArea.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUITextArea.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>B531A838C31537D238E37289</key>
+			<key>D45991C927E805C3B1AD7516</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -361,18 +361,18 @@
 				<key>name</key>
 				<string>ofxUITabBar.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUITabBar.h</string>
+				<string>../../../addons/ofxUI/src/ofxUITabBar.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>CA8778EC8090EF142AD4DB90</key>
+			<key>5AE95ADB5549701423B6DA48</key>
 			<dict>
 				<key>fileRef</key>
-				<string>5A7C09703100A63ADAEA71D4</string>
+				<string>A64B8AA7481267CD4A76C16B</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>5A7C09703100A63ADAEA71D4</key>
+			<key>A64B8AA7481267CD4A76C16B</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -383,11 +383,11 @@
 				<key>name</key>
 				<string>ofxUITabBar.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUITabBar.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUITabBar.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>D95BFD3B2DE9F99DFDDD7CDB</key>
+			<key>1C43CDB79BF40EA7424B9680</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -398,18 +398,18 @@
 				<key>name</key>
 				<string>ofxUISuperCanvas.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISuperCanvas.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISuperCanvas.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>110E2938C2105D895AB24A20</key>
+			<key>1DAAC3FB4B98B08AE63F4687</key>
 			<dict>
 				<key>fileRef</key>
-				<string>5DA1FFDD064FC818AEFEF66D</string>
+				<string>38EBD5650A3BF5A499B07525</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>5DA1FFDD064FC818AEFEF66D</key>
+			<key>38EBD5650A3BF5A499B07525</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -420,11 +420,11 @@
 				<key>name</key>
 				<string>ofxUISuperCanvas.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISuperCanvas.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISuperCanvas.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>BBA10BAE7F258F553565B53D</key>
+			<key>C6305369801B450557086284</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -435,18 +435,18 @@
 				<key>name</key>
 				<string>ofxUISpectrum.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISpectrum.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISpectrum.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>AAC46BF75776301A346BAB27</key>
+			<key>52AFF80A869790144ACCC9BA</key>
 			<dict>
 				<key>fileRef</key>
-				<string>378BDA95717AF8D71E1EF5B1</string>
+				<string>D7177CC1E771E1E857F8CB48</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>378BDA95717AF8D71E1EF5B1</key>
+			<key>D7177CC1E771E1E857F8CB48</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -457,11 +457,11 @@
 				<key>name</key>
 				<string>ofxUISpectrum.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISpectrum.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISpectrum.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>1E1E5E479AD3CD2F8C1A2811</key>
+			<key>C7B4B8AD9464A693A3683D0F</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -472,18 +472,18 @@
 				<key>name</key>
 				<string>ofxUISpacer.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISpacer.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISpacer.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>D7B30C39C2623A7D387E18D5</key>
+			<key>BFEFCE32DAFE10A8EB519F6C</key>
 			<dict>
 				<key>fileRef</key>
-				<string>43181487CFC381AA181CCE34</string>
+				<string>30CBAAEC78A0E9EBBB10A05A</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>43181487CFC381AA181CCE34</key>
+			<key>30CBAAEC78A0E9EBBB10A05A</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -494,11 +494,11 @@
 				<key>name</key>
 				<string>ofxUISpacer.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISpacer.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISpacer.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>11942CD4F65D3B2755D85DDE</key>
+			<key>E88F5D4D5E360FA5B5C8F99E</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -509,18 +509,18 @@
 				<key>name</key>
 				<string>ofxUISortableList.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISortableList.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISortableList.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>4B6D7BEB925C8B2D0600FAF1</key>
+			<key>ADE7C2AFC51E3F7E5E389026</key>
 			<dict>
 				<key>fileRef</key>
-				<string>EA684DA95350D576AE2F06D8</string>
+				<string>5613D5D24B00D8AD909F7E6A</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>EA684DA95350D576AE2F06D8</key>
+			<key>5613D5D24B00D8AD909F7E6A</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -531,11 +531,11 @@
 				<key>name</key>
 				<string>ofxUISortableList.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISortableList.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISortableList.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>60244CCB3F3E861DA4AFC5A6</key>
+			<key>470B5D2AC2F616D10B2E6025</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -546,18 +546,18 @@
 				<key>name</key>
 				<string>ofxUISlider.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUISlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>88597B28028CE53D7D765215</key>
+			<key>740A58CBFDFE578C83A349AF</key>
 			<dict>
 				<key>fileRef</key>
-				<string>A06A1E7D917129C285B3F313</string>
+				<string>0DE8B77977749C1835A9472B</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>A06A1E7D917129C285B3F313</key>
+			<key>0DE8B77977749C1835A9472B</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -568,11 +568,11 @@
 				<key>name</key>
 				<string>ofxUISlider.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUISlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUISlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>E836FA3D18BC57D6DE040CD3</key>
+			<key>C38D6DCC3AB9AAE213A64015</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -583,18 +583,18 @@
 				<key>name</key>
 				<string>ofxUIScrollableCanvas.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIScrollableCanvas.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIScrollableCanvas.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>F02CEB406FEC5A8C0604FB4D</key>
+			<key>43BADBB2FE0F17D34B57A705</key>
 			<dict>
 				<key>fileRef</key>
-				<string>B48A37160D37ABD91B79B6A7</string>
+				<string>BFD3387AA9EFA53E1B4F087B</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>B48A37160D37ABD91B79B6A7</key>
+			<key>BFD3387AA9EFA53E1B4F087B</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -605,11 +605,11 @@
 				<key>name</key>
 				<string>ofxUIScrollableCanvas.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIScrollableCanvas.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIScrollableCanvas.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>CBB9A98BD5D5546C1F6E97AA</key>
+			<key>885850B62FAD08EB1D2F0BF4</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -620,18 +620,18 @@
 				<key>name</key>
 				<string>ofxUIRotarySlider.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIRotarySlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIRotarySlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>64FDD8DF9305A900656C6D50</key>
+			<key>FE0F1DB69ACCD163E9DA2A15</key>
 			<dict>
 				<key>fileRef</key>
-				<string>77E8B8E9161AF8C185D4C704</string>
+				<string>64F3DE24F191ECED9DBE903C</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>77E8B8E9161AF8C185D4C704</key>
+			<key>64F3DE24F191ECED9DBE903C</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -642,11 +642,11 @@
 				<key>name</key>
 				<string>ofxUIRotarySlider.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIRotarySlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIRotarySlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>9C6CCA44F0EBD73A34D91DF6</key>
+			<key>1E29C7E8C47E3E2DB1C58766</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -657,18 +657,18 @@
 				<key>name</key>
 				<string>ofxUIRectangle.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIRectangle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIRectangle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>04CDD373AC67E4533F48A756</key>
+			<key>59C5F2F5D7254C33C00F97CB</key>
 			<dict>
 				<key>fileRef</key>
-				<string>4C7D2D63F907E9015E30ABB3</string>
+				<string>828EDF7F6C239EA7B17F32F0</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>4C7D2D63F907E9015E30ABB3</key>
+			<key>828EDF7F6C239EA7B17F32F0</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -679,11 +679,11 @@
 				<key>name</key>
 				<string>ofxUIRectangle.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIRectangle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIRectangle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>46711BABE7F0F82C4E8D9940</key>
+			<key>856BF5AB0322D0689EE63829</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -694,18 +694,18 @@
 				<key>name</key>
 				<string>ofxUIRangeSlider.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIRangeSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIRangeSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>156555ADC83FC9BBE8C08342</key>
+			<key>1587708E3CAC72997E43504E</key>
 			<dict>
 				<key>fileRef</key>
-				<string>EA8B3918C3B8569016B1CCD0</string>
+				<string>E2813E36CEFD8D1C1B70E600</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>EA8B3918C3B8569016B1CCD0</key>
+			<key>E2813E36CEFD8D1C1B70E600</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -716,11 +716,11 @@
 				<key>name</key>
 				<string>ofxUIRangeSlider.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIRangeSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIRangeSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>3E2ECB95E94F29AD0AD8EFA9</key>
+			<key>4C9B919B991B4E45BC5DC0DB</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -731,18 +731,18 @@
 				<key>name</key>
 				<string>ofxUIRadio.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIRadio.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIRadio.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>06AF5E35F49C204CEF134241</key>
+			<key>D60E54E7FD6E19BC8636E0D2</key>
 			<dict>
 				<key>fileRef</key>
-				<string>159E956420F8B5A4364FB1F9</string>
+				<string>9D33A3E929B0B5D9C002E30E</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>159E956420F8B5A4364FB1F9</key>
+			<key>9D33A3E929B0B5D9C002E30E</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -753,11 +753,11 @@
 				<key>name</key>
 				<string>ofxUIRadio.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIRadio.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIRadio.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>6888C322453CD5DDB111C7A1</key>
+			<key>334840CA6B3402C8C30CAC4E</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -768,11 +768,11 @@
 				<key>name</key>
 				<string>ofxUIOFWrapper.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIOFWrapper.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIOFWrapper.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>987626F2B5B189E395AC7D9F</key>
+			<key>15C99204FF4D8D72AD034B63</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -783,18 +783,18 @@
 				<key>name</key>
 				<string>ofxUINumberDialer.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUINumberDialer.h</string>
+				<string>../../../addons/ofxUI/src/ofxUINumberDialer.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>E225938976636258D8A7F66B</key>
+			<key>E3D59A6B55F05669B3FBF8BD</key>
 			<dict>
 				<key>fileRef</key>
-				<string>CA5E714A0865069C7BB956FE</string>
+				<string>0D6768C572B6CA49227C29EA</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>CA5E714A0865069C7BB956FE</key>
+			<key>0D6768C572B6CA49227C29EA</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -805,11 +805,11 @@
 				<key>name</key>
 				<string>ofxUINumberDialer.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUINumberDialer.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUINumberDialer.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>AEB0552DE1396B97D7F9A8DC</key>
+			<key>1902452F5E510A2DBC1E5BD6</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -820,18 +820,18 @@
 				<key>name</key>
 				<string>ofxUIMultiImageToggle.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIMultiImageToggle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIMultiImageToggle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>BCA1CF46091178B110108B7A</key>
+			<key>F9C20834354ACC8337320B8C</key>
 			<dict>
 				<key>fileRef</key>
-				<string>8F2A3ABB1A0DD3A4897DC33D</string>
+				<string>1C5ED4467DFF0AC3482E9362</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>8F2A3ABB1A0DD3A4897DC33D</key>
+			<key>1C5ED4467DFF0AC3482E9362</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -842,11 +842,11 @@
 				<key>name</key>
 				<string>ofxUIMultiImageToggle.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIMultiImageToggle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIMultiImageToggle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>989B315F4B38B85E0B5E09EA</key>
+			<key>BC6931447DE6C359DDDF21F1</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -857,18 +857,18 @@
 				<key>name</key>
 				<string>ofxUIMultiImageButton.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIMultiImageButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIMultiImageButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>A865C180B123920E8319C312</key>
+			<key>222C3AB10FA3158602718602</key>
 			<dict>
 				<key>fileRef</key>
-				<string>5CE44516DD2FD89967C016D1</string>
+				<string>17E06821FB98542FDB806E50</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>5CE44516DD2FD89967C016D1</key>
+			<key>17E06821FB98542FDB806E50</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -879,11 +879,11 @@
 				<key>name</key>
 				<string>ofxUIMultiImageButton.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIMultiImageButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIMultiImageButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>974E29114DDD949A0C3794CC</key>
+			<key>5C48E3511951BB86FA9AA642</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -894,18 +894,18 @@
 				<key>name</key>
 				<string>ofxUIMovingGraph.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIMovingGraph.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIMovingGraph.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>2934F973FA63ECDC37C129E8</key>
+			<key>F440B307990F8F5CE40B9111</key>
 			<dict>
 				<key>fileRef</key>
-				<string>45C114266B67FA25EFC12EC7</string>
+				<string>7965EE214E4C332003852642</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>45C114266B67FA25EFC12EC7</key>
+			<key>7965EE214E4C332003852642</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -916,11 +916,11 @@
 				<key>name</key>
 				<string>ofxUIMovingGraph.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIMovingGraph.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIMovingGraph.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>93753AAEDEC6ED90C85D7817</key>
+			<key>CCEC29A4351C40BA86F2E491</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -931,18 +931,18 @@
 				<key>name</key>
 				<string>ofxUIMinimalSlider.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIMinimalSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIMinimalSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>74B9D7CFE8AC51C3CCC03AC9</key>
+			<key>9A83D1B3FB64456BC907667F</key>
 			<dict>
 				<key>fileRef</key>
-				<string>EDAEBCEA5DDFC43B20F9E4A6</string>
+				<string>2BE7216430113F333B8351ED</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>EDAEBCEA5DDFC43B20F9E4A6</key>
+			<key>2BE7216430113F333B8351ED</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -953,11 +953,11 @@
 				<key>name</key>
 				<string>ofxUIMinimalSlider.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIMinimalSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIMinimalSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>1F2F7648AB05F65D3632FCCD</key>
+			<key>6248640C06B47042BB5BD3F2</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -968,18 +968,18 @@
 				<key>name</key>
 				<string>ofxUILabelToggle.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUILabelToggle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUILabelToggle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>507FAFA097A33BE5CF21A191</key>
+			<key>C30B3A2A37F8F32EE7318718</key>
 			<dict>
 				<key>fileRef</key>
-				<string>F17E05CFB129C08884376001</string>
+				<string>76AF3B44E0E2FA8BFBD5F592</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>F17E05CFB129C08884376001</key>
+			<key>76AF3B44E0E2FA8BFBD5F592</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -990,11 +990,11 @@
 				<key>name</key>
 				<string>ofxUILabelToggle.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUILabelToggle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUILabelToggle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>EADDE52FFB4B569DAD045CF7</key>
+			<key>FBE1B379902B3C585DC8F7A2</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1005,18 +1005,18 @@
 				<key>name</key>
 				<string>ofxUILabelButton.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUILabelButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUILabelButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>6BFA3ACCFBDA20E3D466BE88</key>
+			<key>FFD1EBFCA24DFB4E4427B4FE</key>
 			<dict>
 				<key>fileRef</key>
-				<string>8ADDFD8A710E37C40319804A</string>
+				<string>F9A4454B00CCFD7265D3CA85</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>8ADDFD8A710E37C40319804A</key>
+			<key>F9A4454B00CCFD7265D3CA85</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1027,11 +1027,11 @@
 				<key>name</key>
 				<string>ofxUILabelButton.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUILabelButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUILabelButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>006A39E8A0328F57759A54B1</key>
+			<key>F26E25F3872C0799D6433B99</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1042,18 +1042,18 @@
 				<key>name</key>
 				<string>ofxUILabel.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUILabel.h</string>
+				<string>../../../addons/ofxUI/src/ofxUILabel.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>D73E670BCE5C17AC746B9219</key>
+			<key>7C3DC84C9BFCBD2866DB2B6C</key>
 			<dict>
 				<key>fileRef</key>
-				<string>C1088F54208BA51CD1B2B8E4</string>
+				<string>D7D83EF74FC7508D9146FA63</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>C1088F54208BA51CD1B2B8E4</key>
+			<key>D7D83EF74FC7508D9146FA63</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1064,11 +1064,11 @@
 				<key>name</key>
 				<string>ofxUILabel.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUILabel.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUILabel.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>1CEE370D5F15BE1F1595A645</key>
+			<key>2D394124F88F348AA4142DCF</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1079,18 +1079,18 @@
 				<key>name</key>
 				<string>ofxUIImageToggle.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImageToggle.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageToggle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>B87F2258B6F5EFE776608C4B</key>
+			<key>FB8AA9FA6535767BE31806BC</key>
 			<dict>
 				<key>fileRef</key>
-				<string>19918FACFA0C7C94E8D0A938</string>
+				<string>B848522CCA3A75ABD56752C9</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>19918FACFA0C7C94E8D0A938</key>
+			<key>B848522CCA3A75ABD56752C9</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1101,11 +1101,11 @@
 				<key>name</key>
 				<string>ofxUIImageToggle.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImageToggle.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageToggle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>3365A1D827CEE0938277B916</key>
+			<key>D66E735BE796BC0675320DC8</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1116,18 +1116,18 @@
 				<key>name</key>
 				<string>ofxUIImageSlider.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImageSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>5F86C4D8EA9B60C6C8FBFE6A</key>
+			<key>26874B150C8535AEA0F24C8C</key>
 			<dict>
 				<key>fileRef</key>
-				<string>4896423033EA8A6698808796</string>
+				<string>2689C5C8A97002C218125F2F</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>4896423033EA8A6698808796</key>
+			<key>2689C5C8A97002C218125F2F</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1138,11 +1138,11 @@
 				<key>name</key>
 				<string>ofxUIImageSlider.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImageSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>943A93F1EB6DDDDBC7DF236E</key>
+			<key>4AEA0D08C3B0323FEDC8D974</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1153,18 +1153,18 @@
 				<key>name</key>
 				<string>ofxUIImageSampler.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImageSampler.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageSampler.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>1FC0F2BB93FEB6C656854B1A</key>
+			<key>FBD0CD0AFE3849C14E829CAF</key>
 			<dict>
 				<key>fileRef</key>
-				<string>0972002EDEDFEB231837EA8D</string>
+				<string>8B5F60B902BFFD95E99AAB34</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>0972002EDEDFEB231837EA8D</key>
+			<key>8B5F60B902BFFD95E99AAB34</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1175,11 +1175,11 @@
 				<key>name</key>
 				<string>ofxUIImageSampler.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImageSampler.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageSampler.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>76E0D934D8A45FD87D2F1E02</key>
+			<key>E67BC70E17DDA0081C8FD9DD</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1190,18 +1190,18 @@
 				<key>name</key>
 				<string>ofxUIImageButton.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImageButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>1DE6738890FAC154CEE900E3</key>
+			<key>7F2CD93F681F3C1547B3BF2C</key>
 			<dict>
 				<key>fileRef</key>
-				<string>A8D28DD7BA62B8AF403CE84E</string>
+				<string>E6280B5FA1CEA20450916E49</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>A8D28DD7BA62B8AF403CE84E</key>
+			<key>E6280B5FA1CEA20450916E49</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1212,11 +1212,11 @@
 				<key>name</key>
 				<string>ofxUIImageButton.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImageButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImageButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>55E16FF1664EF02AFE5E7AF3</key>
+			<key>4ED7BC3AF72F6BE8F0917A30</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1227,18 +1227,18 @@
 				<key>name</key>
 				<string>ofxUIImage.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImage.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIImage.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>53EC6E1C684FA89012007B35</key>
+			<key>3D4EA8E172D3E4A30FEFA969</key>
 			<dict>
 				<key>fileRef</key>
-				<string>A3D6781BEF257323D71F5F8C</string>
+				<string>938F5A098A216B403906129C</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>A3D6781BEF257323D71F5F8C</key>
+			<key>938F5A098A216B403906129C</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1249,11 +1249,11 @@
 				<key>name</key>
 				<string>ofxUIImage.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIImage.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIImage.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>F1FC97B6AEE1D858B1A370A3</key>
+			<key>664D65407BE633C038FA9498</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1264,18 +1264,18 @@
 				<key>name</key>
 				<string>ofxUIFPSSlider.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIFPSSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIFPSSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>B2F178282CE2A87138A8A202</key>
+			<key>22030CBDCC25D815E7ED6757</key>
 			<dict>
 				<key>fileRef</key>
-				<string>947AEAEAFBBE1CBE340CAF7C</string>
+				<string>7E7E592342D8B7FB73A6F64D</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>947AEAEAFBBE1CBE340CAF7C</key>
+			<key>7E7E592342D8B7FB73A6F64D</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1286,11 +1286,11 @@
 				<key>name</key>
 				<string>ofxUIFPSSlider.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIFPSSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIFPSSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>6E718F4D2B366094AAB95112</key>
+			<key>FDA2832E78CFA22BEEC74160</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1301,18 +1301,18 @@
 				<key>name</key>
 				<string>ofxUIFPS.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIFPS.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIFPS.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>B233CE5E8255C6DFB68833CB</key>
+			<key>7252706DA14C1BE63950ADDA</key>
 			<dict>
 				<key>fileRef</key>
-				<string>3CF526B8E456EA2207361470</string>
+				<string>FEB61645EF9120F5BACB7462</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>3CF526B8E456EA2207361470</key>
+			<key>FEB61645EF9120F5BACB7462</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1323,11 +1323,11 @@
 				<key>name</key>
 				<string>ofxUIFPS.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIFPS.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIFPS.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>A0A284A286E14EF62C96F502</key>
+			<key>CF73E1AF93352CF515E7C9F2</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1338,18 +1338,18 @@
 				<key>name</key>
 				<string>ofxUIEventArgs.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIEventArgs.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIEventArgs.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>AE2735B51BF49E2D6CDACA72</key>
+			<key>084025DA517D8329301FE1B6</key>
 			<dict>
 				<key>fileRef</key>
-				<string>F02AAD8EBFA1A53CFDC33672</string>
+				<string>A8896AC3BECAAA504E3828F4</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>F02AAD8EBFA1A53CFDC33672</key>
+			<key>A8896AC3BECAAA504E3828F4</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1360,11 +1360,11 @@
 				<key>name</key>
 				<string>ofxUIEventArgs.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIEventArgs.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIEventArgs.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>D4A013EEA9869E017E9153DB</key>
+			<key>531D8D09739D338239967B3A</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1375,18 +1375,18 @@
 				<key>name</key>
 				<string>ofxUIDropDownList.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIDropDownList.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIDropDownList.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>635F578107330CA3BE57B3C0</key>
+			<key>F392A99D83698FC099127880</key>
 			<dict>
 				<key>fileRef</key>
-				<string>097F3D8EA91D6EEBC773D87D</string>
+				<string>31517A9D3D67D9C054954DC5</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>097F3D8EA91D6EEBC773D87D</key>
+			<key>31517A9D3D67D9C054954DC5</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1397,11 +1397,11 @@
 				<key>name</key>
 				<string>ofxUIDropDownList.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIDropDownList.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIDropDownList.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>5A45E0AAFCBDAAE52F343250</key>
+			<key>3C9066FB257B904A547019ED</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1412,18 +1412,18 @@
 				<key>name</key>
 				<string>ofxUIDragableLabelButton.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIDragableLabelButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIDragableLabelButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>20BFE1CC6FD7AF16B81831B8</key>
+			<key>9BE4AE0AA2B8C436BDFE9D4D</key>
 			<dict>
 				<key>fileRef</key>
-				<string>4B9984604F7CFFE8163FD20B</string>
+				<string>FFD5D3C9D38E29DB72B32254</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>4B9984604F7CFFE8163FD20B</key>
+			<key>FFD5D3C9D38E29DB72B32254</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1434,11 +1434,11 @@
 				<key>name</key>
 				<string>ofxUIDragableLabelButton.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIDragableLabelButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIDragableLabelButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>982DCC9E21E1DB94A1B12747</key>
+			<key>AEFCF7E549ACA862C022AD40</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1449,11 +1449,11 @@
 				<key>name</key>
 				<string>ofxUIDefines.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIDefines.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIDefines.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>24684D5B506D499E9353EDDA</key>
+			<key>EDFEB3D8C9183ADE3FACB4B5</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1464,18 +1464,18 @@
 				<key>name</key>
 				<string>ofxUICircleSlider.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUICircleSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUICircleSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>B4D140018297F35B20E6D858</key>
+			<key>DF0C851B244C4C867CEA8806</key>
 			<dict>
 				<key>fileRef</key>
-				<string>57F16252C1927EED5D26EF33</string>
+				<string>2556100026B425E8370BCF75</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>57F16252C1927EED5D26EF33</key>
+			<key>2556100026B425E8370BCF75</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1486,11 +1486,11 @@
 				<key>name</key>
 				<string>ofxUICircleSlider.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUICircleSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUICircleSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>F7FB89403C4F2DBD3C7EDBC5</key>
+			<key>4FF2F2D5A01ADA37A9ADE20F</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1501,18 +1501,18 @@
 				<key>name</key>
 				<string>ofxUICanvas.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUICanvas.h</string>
+				<string>../../../addons/ofxUI/src/ofxUICanvas.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>0EB08DC28C62DA2E66E5A100</key>
+			<key>7BE46522B64E24FAEDE1A25D</key>
 			<dict>
 				<key>fileRef</key>
-				<string>8F4F3D6A4DF2D9A3910DD4BD</string>
+				<string>E71733956CD601886837BE2E</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>8F4F3D6A4DF2D9A3910DD4BD</key>
+			<key>E71733956CD601886837BE2E</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1523,11 +1523,11 @@
 				<key>name</key>
 				<string>ofxUICanvas.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUICanvas.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUICanvas.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>475AEBBC27AB966ABAF293F0</key>
+			<key>B3CA0202B1A3B6D8920C2B15</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1538,18 +1538,18 @@
 				<key>name</key>
 				<string>ofxUIButton.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIButton.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIButton.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>1EEE82DE3B8FEE4ACFA5E0A0</key>
+			<key>7D393646FB859A930EF58917</key>
 			<dict>
 				<key>fileRef</key>
-				<string>9F49D6E0AC35E1C329778F36</string>
+				<string>8F8238006E98A8E39851968C</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>9F49D6E0AC35E1C329778F36</key>
+			<key>8F8238006E98A8E39851968C</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1560,11 +1560,11 @@
 				<key>name</key>
 				<string>ofxUIButton.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIButton.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIButton.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>7DC256F90423B39B617D943B</key>
+			<key>2DD185513A2875EC8A078670</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1575,18 +1575,18 @@
 				<key>name</key>
 				<string>ofxUIBiLabelSlider.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIBiLabelSlider.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIBiLabelSlider.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>E12013BC322890C18471B18B</key>
+			<key>C381F2B7CFD84C0E540EB4BC</key>
 			<dict>
 				<key>fileRef</key>
-				<string>E68D51157A3499DD9B6E000E</string>
+				<string>876BBA9542E267584885CAD8</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>E68D51157A3499DD9B6E000E</key>
+			<key>876BBA9542E267584885CAD8</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1597,11 +1597,11 @@
 				<key>name</key>
 				<string>ofxUIBiLabelSlider.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIBiLabelSlider.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIBiLabelSlider.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>BF0C6F173D2650F7C374347C</key>
+			<key>C161222F68D4F7CE28BC4F61</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1612,18 +1612,18 @@
 				<key>name</key>
 				<string>ofxUIBaseDraws.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIBaseDraws.h</string>
+				<string>../../../addons/ofxUI/src/ofxUIBaseDraws.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>EBCA054F503E17DD679A4FB7</key>
+			<key>F1E8DE8734BA6F69A5112FA8</key>
 			<dict>
 				<key>fileRef</key>
-				<string>B3D305A3F8DFA6A1C0778977</string>
+				<string>28155024C27152A66926B553</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>B3D305A3F8DFA6A1C0778977</key>
+			<key>28155024C27152A66926B553</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1634,11 +1634,11 @@
 				<key>name</key>
 				<string>ofxUIBaseDraws.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUIBaseDraws.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUIBaseDraws.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>E52205C86AC7E87C6601B468</key>
+			<key>961DE8B564EF22E65C9480AE</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1649,18 +1649,18 @@
 				<key>name</key>
 				<string>ofxUI2DPad.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUI2DPad.h</string>
+				<string>../../../addons/ofxUI/src/ofxUI2DPad.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>1E045E77B27CDE340990B9D6</key>
+			<key>4B3ED367CA852D522E2EE996</key>
 			<dict>
 				<key>fileRef</key>
-				<string>EAD4A8BB856A4ACBAEA202E7</string>
+				<string>1553D7111BCBE7834BCC0784</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>EAD4A8BB856A4ACBAEA202E7</key>
+			<key>1553D7111BCBE7834BCC0784</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1671,11 +1671,11 @@
 				<key>name</key>
 				<string>ofxUI2DPad.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUI2DPad.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUI2DPad.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>4C909B9388ECB7726D8109C0</key>
+			<key>653CFAE31336DAA04B1F1503</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1686,18 +1686,18 @@
 				<key>name</key>
 				<string>ofxUI2DGraph.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUI2DGraph.h</string>
+				<string>../../../addons/ofxUI/src/ofxUI2DGraph.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>57DDD1B404AF46539947B468</key>
+			<key>9F5C6DD965B4F3A6DB5B88F8</key>
 			<dict>
 				<key>fileRef</key>
-				<string>8F9C0B5466D2AC17AAAC501D</string>
+				<string>02FF3B8D243CFB85AE0909EB</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>8F9C0B5466D2AC17AAAC501D</key>
+			<key>02FF3B8D243CFB85AE0909EB</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1708,7 +1708,7 @@
 				<key>name</key>
 				<string>ofxUI2DGraph.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUI2DGraph.cpp</string>
+				<string>../../../addons/ofxUI/src/ofxUI2DGraph.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1716,100 +1716,100 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>29C8B18EE283A4A152D376A3</string>
-					<string>8F9C0B5466D2AC17AAAC501D</string>
-					<string>4C909B9388ECB7726D8109C0</string>
-					<string>EAD4A8BB856A4ACBAEA202E7</string>
-					<string>E52205C86AC7E87C6601B468</string>
-					<string>B3D305A3F8DFA6A1C0778977</string>
-					<string>BF0C6F173D2650F7C374347C</string>
-					<string>E68D51157A3499DD9B6E000E</string>
-					<string>7DC256F90423B39B617D943B</string>
-					<string>9F49D6E0AC35E1C329778F36</string>
-					<string>475AEBBC27AB966ABAF293F0</string>
-					<string>8F4F3D6A4DF2D9A3910DD4BD</string>
-					<string>F7FB89403C4F2DBD3C7EDBC5</string>
-					<string>57F16252C1927EED5D26EF33</string>
-					<string>24684D5B506D499E9353EDDA</string>
-					<string>982DCC9E21E1DB94A1B12747</string>
-					<string>4B9984604F7CFFE8163FD20B</string>
-					<string>5A45E0AAFCBDAAE52F343250</string>
-					<string>097F3D8EA91D6EEBC773D87D</string>
-					<string>D4A013EEA9869E017E9153DB</string>
-					<string>F02AAD8EBFA1A53CFDC33672</string>
-					<string>A0A284A286E14EF62C96F502</string>
-					<string>3CF526B8E456EA2207361470</string>
-					<string>6E718F4D2B366094AAB95112</string>
-					<string>947AEAEAFBBE1CBE340CAF7C</string>
-					<string>F1FC97B6AEE1D858B1A370A3</string>
-					<string>A3D6781BEF257323D71F5F8C</string>
-					<string>55E16FF1664EF02AFE5E7AF3</string>
-					<string>A8D28DD7BA62B8AF403CE84E</string>
-					<string>76E0D934D8A45FD87D2F1E02</string>
-					<string>0972002EDEDFEB231837EA8D</string>
-					<string>943A93F1EB6DDDDBC7DF236E</string>
-					<string>4896423033EA8A6698808796</string>
-					<string>3365A1D827CEE0938277B916</string>
-					<string>19918FACFA0C7C94E8D0A938</string>
-					<string>1CEE370D5F15BE1F1595A645</string>
-					<string>C1088F54208BA51CD1B2B8E4</string>
-					<string>006A39E8A0328F57759A54B1</string>
-					<string>8ADDFD8A710E37C40319804A</string>
-					<string>EADDE52FFB4B569DAD045CF7</string>
-					<string>F17E05CFB129C08884376001</string>
-					<string>1F2F7648AB05F65D3632FCCD</string>
-					<string>EDAEBCEA5DDFC43B20F9E4A6</string>
-					<string>93753AAEDEC6ED90C85D7817</string>
-					<string>45C114266B67FA25EFC12EC7</string>
-					<string>974E29114DDD949A0C3794CC</string>
-					<string>5CE44516DD2FD89967C016D1</string>
-					<string>989B315F4B38B85E0B5E09EA</string>
-					<string>8F2A3ABB1A0DD3A4897DC33D</string>
-					<string>AEB0552DE1396B97D7F9A8DC</string>
-					<string>CA5E714A0865069C7BB956FE</string>
-					<string>987626F2B5B189E395AC7D9F</string>
-					<string>6888C322453CD5DDB111C7A1</string>
-					<string>159E956420F8B5A4364FB1F9</string>
-					<string>3E2ECB95E94F29AD0AD8EFA9</string>
-					<string>EA8B3918C3B8569016B1CCD0</string>
-					<string>46711BABE7F0F82C4E8D9940</string>
-					<string>4C7D2D63F907E9015E30ABB3</string>
-					<string>9C6CCA44F0EBD73A34D91DF6</string>
-					<string>77E8B8E9161AF8C185D4C704</string>
-					<string>CBB9A98BD5D5546C1F6E97AA</string>
-					<string>B48A37160D37ABD91B79B6A7</string>
-					<string>E836FA3D18BC57D6DE040CD3</string>
-					<string>A06A1E7D917129C285B3F313</string>
-					<string>60244CCB3F3E861DA4AFC5A6</string>
-					<string>EA684DA95350D576AE2F06D8</string>
-					<string>11942CD4F65D3B2755D85DDE</string>
-					<string>43181487CFC381AA181CCE34</string>
-					<string>1E1E5E479AD3CD2F8C1A2811</string>
-					<string>378BDA95717AF8D71E1EF5B1</string>
-					<string>BBA10BAE7F258F553565B53D</string>
-					<string>5DA1FFDD064FC818AEFEF66D</string>
-					<string>D95BFD3B2DE9F99DFDDD7CDB</string>
-					<string>5A7C09703100A63ADAEA71D4</string>
-					<string>B531A838C31537D238E37289</string>
-					<string>DBD5F0E4C15DE373DF527BBE</string>
-					<string>184D7E470C0729F136162106</string>
-					<string>CB532F4D5899EFD82C642B0C</string>
-					<string>8190D587445A325A99E48F6F</string>
-					<string>908522171C7FB1BBD02AB0FF</string>
-					<string>09705DBD46B6F6410F8BA95C</string>
-					<string>9ACA42AC2D0C6D912D64EDF4</string>
-					<string>12C3D635927D88397FA6499C</string>
-					<string>51A2A478E4E775362704818F</string>
-					<string>42D1592B8EE16A9D34249DAC</string>
-					<string>89681FA84851BC712EF6B9E6</string>
-					<string>1C645F06B8FF80EA225F588A</string>
-					<string>7BAA16ABA6B40BBD73179872</string>
-					<string>E7D3D8E6226A5BBA5A56EB6C</string>
-					<string>345CBC77008FCAA8463535BB</string>
-					<string>2AD6CDA0AB0F6BFB9DECDA23</string>
-					<string>A31A9A4D4B2F556B0CEF1579</string>
-					<string>BE8936EE89B7AE66E72E97CA</string>
-					<string>0E5715533540E2836FFD4C06</string>
+					<string>64C6F7AD018FFD34C7ABB6F2</string>
+					<string>02FF3B8D243CFB85AE0909EB</string>
+					<string>653CFAE31336DAA04B1F1503</string>
+					<string>1553D7111BCBE7834BCC0784</string>
+					<string>961DE8B564EF22E65C9480AE</string>
+					<string>28155024C27152A66926B553</string>
+					<string>C161222F68D4F7CE28BC4F61</string>
+					<string>876BBA9542E267584885CAD8</string>
+					<string>2DD185513A2875EC8A078670</string>
+					<string>8F8238006E98A8E39851968C</string>
+					<string>B3CA0202B1A3B6D8920C2B15</string>
+					<string>E71733956CD601886837BE2E</string>
+					<string>4FF2F2D5A01ADA37A9ADE20F</string>
+					<string>2556100026B425E8370BCF75</string>
+					<string>EDFEB3D8C9183ADE3FACB4B5</string>
+					<string>AEFCF7E549ACA862C022AD40</string>
+					<string>FFD5D3C9D38E29DB72B32254</string>
+					<string>3C9066FB257B904A547019ED</string>
+					<string>31517A9D3D67D9C054954DC5</string>
+					<string>531D8D09739D338239967B3A</string>
+					<string>A8896AC3BECAAA504E3828F4</string>
+					<string>CF73E1AF93352CF515E7C9F2</string>
+					<string>FEB61645EF9120F5BACB7462</string>
+					<string>FDA2832E78CFA22BEEC74160</string>
+					<string>7E7E592342D8B7FB73A6F64D</string>
+					<string>664D65407BE633C038FA9498</string>
+					<string>938F5A098A216B403906129C</string>
+					<string>4ED7BC3AF72F6BE8F0917A30</string>
+					<string>E6280B5FA1CEA20450916E49</string>
+					<string>E67BC70E17DDA0081C8FD9DD</string>
+					<string>8B5F60B902BFFD95E99AAB34</string>
+					<string>4AEA0D08C3B0323FEDC8D974</string>
+					<string>2689C5C8A97002C218125F2F</string>
+					<string>D66E735BE796BC0675320DC8</string>
+					<string>B848522CCA3A75ABD56752C9</string>
+					<string>2D394124F88F348AA4142DCF</string>
+					<string>D7D83EF74FC7508D9146FA63</string>
+					<string>F26E25F3872C0799D6433B99</string>
+					<string>F9A4454B00CCFD7265D3CA85</string>
+					<string>FBE1B379902B3C585DC8F7A2</string>
+					<string>76AF3B44E0E2FA8BFBD5F592</string>
+					<string>6248640C06B47042BB5BD3F2</string>
+					<string>2BE7216430113F333B8351ED</string>
+					<string>CCEC29A4351C40BA86F2E491</string>
+					<string>7965EE214E4C332003852642</string>
+					<string>5C48E3511951BB86FA9AA642</string>
+					<string>17E06821FB98542FDB806E50</string>
+					<string>BC6931447DE6C359DDDF21F1</string>
+					<string>1C5ED4467DFF0AC3482E9362</string>
+					<string>1902452F5E510A2DBC1E5BD6</string>
+					<string>0D6768C572B6CA49227C29EA</string>
+					<string>15C99204FF4D8D72AD034B63</string>
+					<string>334840CA6B3402C8C30CAC4E</string>
+					<string>9D33A3E929B0B5D9C002E30E</string>
+					<string>4C9B919B991B4E45BC5DC0DB</string>
+					<string>E2813E36CEFD8D1C1B70E600</string>
+					<string>856BF5AB0322D0689EE63829</string>
+					<string>828EDF7F6C239EA7B17F32F0</string>
+					<string>1E29C7E8C47E3E2DB1C58766</string>
+					<string>64F3DE24F191ECED9DBE903C</string>
+					<string>885850B62FAD08EB1D2F0BF4</string>
+					<string>BFD3387AA9EFA53E1B4F087B</string>
+					<string>C38D6DCC3AB9AAE213A64015</string>
+					<string>0DE8B77977749C1835A9472B</string>
+					<string>470B5D2AC2F616D10B2E6025</string>
+					<string>5613D5D24B00D8AD909F7E6A</string>
+					<string>E88F5D4D5E360FA5B5C8F99E</string>
+					<string>30CBAAEC78A0E9EBBB10A05A</string>
+					<string>C7B4B8AD9464A693A3683D0F</string>
+					<string>D7177CC1E771E1E857F8CB48</string>
+					<string>C6305369801B450557086284</string>
+					<string>38EBD5650A3BF5A499B07525</string>
+					<string>1C43CDB79BF40EA7424B9680</string>
+					<string>A64B8AA7481267CD4A76C16B</string>
+					<string>D45991C927E805C3B1AD7516</string>
+					<string>DBE31D52BCB0CE44B9D154F0</string>
+					<string>F9DF961B5E7D4C4E1E5D029C</string>
+					<string>06C7032F68D99A145A53CB6F</string>
+					<string>E65D547C2CD6A84FC9AF15FA</string>
+					<string>48CCCEA0C681DE8B4945111B</string>
+					<string>4117B8C24D49837D3DF9C23B</string>
+					<string>702A2528CA64B397E9B91ABE</string>
+					<string>8178EB9AA3C0268331AF3AF3</string>
+					<string>87035EFE3D4427294D4D1338</string>
+					<string>4D902D60E5CCFA9F2554BC7C</string>
+					<string>D1387F25A47EF6809B55B59C</string>
+					<string>9345327AA463407B3DADBADE</string>
+					<string>FCCBDB55B98DA36682809F03</string>
+					<string>08A9C84B3CA68561BE01FF37</string>
+					<string>32BD050A579633ADBCA5AF6B</string>
+					<string>23FA31CAEA236B2C1E218497</string>
+					<string>5AD807D1AF254F978AB20B1C</string>
+					<string>02677FA320D6C63B228A7562</string>
+					<string>5E62D62D32EFCA8D05DDAD1A</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -1831,7 +1831,7 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>29C8B18EE283A4A152D376A3</key>
+			<key>64C6F7AD018FFD34C7ABB6F2</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1842,18 +1842,18 @@
 				<key>name</key>
 				<string>ofxUI.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxUI/src/ofxUI.h</string>
+				<string>../../../addons/ofxUI/src/ofxUI.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>D47297E7ECC38BA1C6773406</key>
+			<key>5A4349E9754D6FA14C0F2A3A</key>
 			<dict>
 				<key>fileRef</key>
-				<string>02CEC6B0DE1B9EAFA2B180FA</string>
+				<string>FC5DA1C87211D4F6377DA719</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>02CEC6B0DE1B9EAFA2B180FA</key>
+			<key>FC5DA1C87211D4F6377DA719</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1864,18 +1864,18 @@
 				<key>name</key>
 				<string>tinyxmlparser.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/libs/tinyxmlparser.cpp</string>
+				<string>../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>F3B32FE01753BF6BBE36F8FA</key>
+			<key>9D44DC88EF9E7991B4A09951</key>
 			<dict>
 				<key>fileRef</key>
-				<string>FC4FC5D16CE3CF342459E844</string>
+				<string>832BDC407620CDBA568B713D</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>FC4FC5D16CE3CF342459E844</key>
+			<key>832BDC407620CDBA568B713D</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1886,11 +1886,11 @@
 				<key>name</key>
 				<string>tinyxmlerror.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/libs/tinyxmlerror.cpp</string>
+				<string>../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>ECC2CAB1EC360E693D9FC9B3</key>
+			<key>B21E7E5F548EEA92F368040B</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1901,7 +1901,7 @@
 				<key>name</key>
 				<string>tinyxml.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/libs/tinyxml.h</string>
+				<string>../../../addons/ofxXmlSettings/libs/tinyxml.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1909,10 +1909,10 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>7212E426594B8CD68E4593DA</string>
-					<string>ECC2CAB1EC360E693D9FC9B3</string>
-					<string>FC4FC5D16CE3CF342459E844</string>
-					<string>02CEC6B0DE1B9EAFA2B180FA</string>
+					<string>2B40EDA85BEB63E46785BC29</string>
+					<string>B21E7E5F548EEA92F368040B</string>
+					<string>832BDC407620CDBA568B713D</string>
+					<string>FC5DA1C87211D4F6377DA719</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -1921,14 +1921,14 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>02F50BE32FD6F219C7A58B1D</key>
+			<key>933A2227713C720CEFF80FD9</key>
 			<dict>
 				<key>fileRef</key>
-				<string>7212E426594B8CD68E4593DA</string>
+				<string>2B40EDA85BEB63E46785BC29</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>7212E426594B8CD68E4593DA</key>
+			<key>2B40EDA85BEB63E46785BC29</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -1939,11 +1939,11 @@
 				<key>name</key>
 				<string>tinyxml.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/libs/tinyxml.cpp</string>
+				<string>../../../addons/ofxXmlSettings/libs/tinyxml.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>767ABE20E547FDBE58468439</key>
+			<key>01DCC0911400F9ACF5B65578</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -1954,7 +1954,7 @@
 				<key>name</key>
 				<string>ofxXmlSettings.h</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/src/ofxXmlSettings.h</string>
+				<string>../../../addons/ofxXmlSettings/src/ofxXmlSettings.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1962,8 +1962,8 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>C82BFBBDC1E541EB1D18044D</string>
-					<string>767ABE20E547FDBE58468439</string>
+					<string>50DF87D612C5AAE17AAFA6C0</string>
+					<string>01DCC0911400F9ACF5B65578</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -1986,14 +1986,14 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>1ED442D7E22FAEE139BC733D</key>
+			<key>63B57AC5BF4EF088491E0317</key>
 			<dict>
 				<key>fileRef</key>
-				<string>C82BFBBDC1E541EB1D18044D</string>
+				<string>50DF87D612C5AAE17AAFA6C0</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>C82BFBBDC1E541EB1D18044D</key>
+			<key>50DF87D612C5AAE17AAFA6C0</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -2004,7 +2004,7 @@
 				<key>name</key>
 				<string>ofxXmlSettings.cpp</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/src/ofxXmlSettings.cpp</string>
+				<string>../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -2031,7 +2031,7 @@
 				<key>name</key>
 				<string>GLUT.framework</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework</string>
+				<string>../../../libs/glut/lib/osx/GLUT.framework</string>
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
@@ -2090,7 +2090,7 @@
 				<key>name</key>
 				<string>openFrameworksLib.xcodeproj</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
+				<string>../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -2400,10 +2400,10 @@
 					<key>HEADER_SEARCH_PATHS</key>
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
-						<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/libs</string>
-						<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/src</string>
-						<string>../../of_v0.8.4_osx_release/addons/ofxUI/libs</string>
-						<string>../../of_v0.8.4_osx_release/addons/ofxUI/src</string>
+						<string>../../../addons/ofxXmlSettings/libs</string>
+						<string>../../../addons/ofxXmlSettings/src</string>
+						<string>../../../addons/ofxUI/libs</string>
+						<string>../../../addons/ofxUI/src</string>
 					</array>
 					<key>ARCHS</key>
 					<string>$(NATIVE_ARCH)</string>
@@ -2462,10 +2462,10 @@
 					<key>HEADER_SEARCH_PATHS</key>
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
-						<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/libs</string>
-						<string>../../of_v0.8.4_osx_release/addons/ofxXmlSettings/src</string>
-						<string>../../of_v0.8.4_osx_release/addons/ofxUI/libs</string>
-						<string>../../of_v0.8.4_osx_release/addons/ofxUI/src</string>
+						<string>../../../addons/ofxXmlSettings/libs</string>
+						<string>../../../addons/ofxXmlSettings/src</string>
+						<string>../../../addons/ofxUI/libs</string>
+						<string>../../../addons/ofxUI/src</string>
 					</array>
 					<key>ARCHS</key>
 					<string>$(NATIVE_ARCH)</string>
@@ -2525,54 +2525,54 @@
 				<array>
 					<string>E4B69E200A3A1BDC003C02F2</string>
 					<string>E4B69E210A3A1BDC003C02F2</string>
-					<string>1ED442D7E22FAEE139BC733D</string>
-					<string>02F50BE32FD6F219C7A58B1D</string>
-					<string>F3B32FE01753BF6BBE36F8FA</string>
-					<string>D47297E7ECC38BA1C6773406</string>
-					<string>57DDD1B404AF46539947B468</string>
-					<string>1E045E77B27CDE340990B9D6</string>
-					<string>EBCA054F503E17DD679A4FB7</string>
-					<string>E12013BC322890C18471B18B</string>
-					<string>1EEE82DE3B8FEE4ACFA5E0A0</string>
-					<string>0EB08DC28C62DA2E66E5A100</string>
-					<string>B4D140018297F35B20E6D858</string>
-					<string>20BFE1CC6FD7AF16B81831B8</string>
-					<string>635F578107330CA3BE57B3C0</string>
-					<string>AE2735B51BF49E2D6CDACA72</string>
-					<string>B233CE5E8255C6DFB68833CB</string>
-					<string>B2F178282CE2A87138A8A202</string>
-					<string>53EC6E1C684FA89012007B35</string>
-					<string>1DE6738890FAC154CEE900E3</string>
-					<string>1FC0F2BB93FEB6C656854B1A</string>
-					<string>5F86C4D8EA9B60C6C8FBFE6A</string>
-					<string>B87F2258B6F5EFE776608C4B</string>
-					<string>D73E670BCE5C17AC746B9219</string>
-					<string>6BFA3ACCFBDA20E3D466BE88</string>
-					<string>507FAFA097A33BE5CF21A191</string>
-					<string>74B9D7CFE8AC51C3CCC03AC9</string>
-					<string>2934F973FA63ECDC37C129E8</string>
-					<string>A865C180B123920E8319C312</string>
-					<string>BCA1CF46091178B110108B7A</string>
-					<string>E225938976636258D8A7F66B</string>
-					<string>06AF5E35F49C204CEF134241</string>
-					<string>156555ADC83FC9BBE8C08342</string>
-					<string>04CDD373AC67E4533F48A756</string>
-					<string>64FDD8DF9305A900656C6D50</string>
-					<string>F02CEB406FEC5A8C0604FB4D</string>
-					<string>88597B28028CE53D7D765215</string>
-					<string>4B6D7BEB925C8B2D0600FAF1</string>
-					<string>D7B30C39C2623A7D387E18D5</string>
-					<string>AAC46BF75776301A346BAB27</string>
-					<string>110E2938C2105D895AB24A20</string>
-					<string>CA8778EC8090EF142AD4DB90</string>
-					<string>FD6B8AE5780E13E51C1402F7</string>
-					<string>1D2FA81C5AA9F9AE550A8A1C</string>
-					<string>F51D903D90B78FDFC442C0AC</string>
-					<string>B7C881C4F462BDC57A1284B0</string>
-					<string>72D0017F250EAE0BF3DCA297</string>
-					<string>CAA5562946DBCD1B0495E835</string>
-					<string>C10CFA96B0A5BDACFCC714F5</string>
-					<string>491F24B07176610B61C44108</string>
+					<string>63B57AC5BF4EF088491E0317</string>
+					<string>933A2227713C720CEFF80FD9</string>
+					<string>9D44DC88EF9E7991B4A09951</string>
+					<string>5A4349E9754D6FA14C0F2A3A</string>
+					<string>9F5C6DD965B4F3A6DB5B88F8</string>
+					<string>4B3ED367CA852D522E2EE996</string>
+					<string>F1E8DE8734BA6F69A5112FA8</string>
+					<string>C381F2B7CFD84C0E540EB4BC</string>
+					<string>7D393646FB859A930EF58917</string>
+					<string>7BE46522B64E24FAEDE1A25D</string>
+					<string>DF0C851B244C4C867CEA8806</string>
+					<string>9BE4AE0AA2B8C436BDFE9D4D</string>
+					<string>F392A99D83698FC099127880</string>
+					<string>084025DA517D8329301FE1B6</string>
+					<string>7252706DA14C1BE63950ADDA</string>
+					<string>22030CBDCC25D815E7ED6757</string>
+					<string>3D4EA8E172D3E4A30FEFA969</string>
+					<string>7F2CD93F681F3C1547B3BF2C</string>
+					<string>FBD0CD0AFE3849C14E829CAF</string>
+					<string>26874B150C8535AEA0F24C8C</string>
+					<string>FB8AA9FA6535767BE31806BC</string>
+					<string>7C3DC84C9BFCBD2866DB2B6C</string>
+					<string>FFD1EBFCA24DFB4E4427B4FE</string>
+					<string>C30B3A2A37F8F32EE7318718</string>
+					<string>9A83D1B3FB64456BC907667F</string>
+					<string>F440B307990F8F5CE40B9111</string>
+					<string>222C3AB10FA3158602718602</string>
+					<string>F9C20834354ACC8337320B8C</string>
+					<string>E3D59A6B55F05669B3FBF8BD</string>
+					<string>D60E54E7FD6E19BC8636E0D2</string>
+					<string>1587708E3CAC72997E43504E</string>
+					<string>59C5F2F5D7254C33C00F97CB</string>
+					<string>FE0F1DB69ACCD163E9DA2A15</string>
+					<string>43BADBB2FE0F17D34B57A705</string>
+					<string>740A58CBFDFE578C83A349AF</string>
+					<string>ADE7C2AFC51E3F7E5E389026</string>
+					<string>BFEFCE32DAFE10A8EB519F6C</string>
+					<string>52AFF80A869790144ACCC9BA</string>
+					<string>1DAAC3FB4B98B08AE63F4687</string>
+					<string>5AE95ADB5549701423B6DA48</string>
+					<string>C961BE22AB9A8CCF037FC18F</string>
+					<string>F8D05F7C7F785CE323983B47</string>
+					<string>04C82720B149CE576B8CBB06</string>
+					<string>E3A1109F67D711D6C256031E</string>
+					<string>60012C723B05938A3D388335</string>
+					<string>AE281BEBF3A00F1FC37F3DA0</string>
+					<string>82845E1F8C90E1F5A99D9868</string>
+					<string>CE5D89B9893EAA12F511DCAC</string>
 				</array>
 				<key>isa</key>
 				<string>PBXSourcesBuildPhase</string>
@@ -2676,7 +2676,7 @@
 						<string>$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)</string>
 					</array>
 					<key>FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1</key>
-					<string>"$(SRCROOT)/../../of_v0.8.4_osx_release/libs/glut/lib/osx"</string>
+					<string>"$(SRCROOT)/../../../libs/glut/lib/osx"</string>
 					<key>GCC_DYNAMIC_NO_PIC</key>
 					<string>NO</string>
 					<key>GCC_GENERATE_DEBUGGING_SYMBOLS</key>
@@ -2780,7 +2780,7 @@
 						<string>$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)</string>
 					</array>
 					<key>FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1</key>
-					<string>"$(SRCROOT)/../../of_v0.8.4_osx_release/libs/glut/lib/osx"</string>
+					<string>"$(SRCROOT)/../../../libs/glut/lib/osx"</string>
 					<key>GCC_GENERATE_DEBUGGING_SYMBOLS</key>
 					<string>YES</string>
 					<key>GCC_MODEL_TUNING</key>
@@ -2972,7 +2972,7 @@
 				<key>shellPath</key>
 				<string>/bin/sh</string>
 				<key>shellScript</key>
-				<string>cp -f ../../of_v0.8.4_osx_release/libs/fmodex/lib/osx/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/libfmodex.dylib"; install_name_tool -change ./libfmodex.dylib @executable_path/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/$PRODUCT_NAME";
+				<string>cp -f ../../../libs/fmodex/lib/osx/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/libfmodex.dylib"; install_name_tool -change ./libfmodex.dylib @executable_path/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/$PRODUCT_NAME";
 mkdir -p "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Resources/"
 cp -f "$ICON_FILE" "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Resources/"
 </string>
@@ -3072,7 +3072,7 @@ cp -f "$ICON_FILE" "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Resources/"
 				<key>name</key>
 				<string>CoreOF.xcconfig</string>
 				<key>path</key>
-				<string>../../of_v0.8.4_osx_release/libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
+				<string>../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
