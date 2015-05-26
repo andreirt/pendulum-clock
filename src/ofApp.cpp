@@ -18,7 +18,7 @@ const string ofApp::TWO_HUNDRED_SEVENTY_DEGREES_LABEL = "270 graus";
 //--------------------------------------------------------------
 void ofApp::setup(){
 
-   this->gui = new ofxUICanvas(0, 0, ofGetWidth(), ofGetHeight());
+	this->gui = new ofxUICanvas(0, 0, ofGetWidth(), ofGetHeight());
     this->gui->setWidgetSpacing(10);
     gui->setFontSize(OFX_UI_FONT_SMALL, 8);
     gui->setFontSize(OFX_UI_FONT_LARGE, 18);
