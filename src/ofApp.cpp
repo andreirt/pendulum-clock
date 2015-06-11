@@ -23,7 +23,7 @@ void ofApp::setup(){
     gui->setFontSize(OFX_UI_FONT_SMALL, 8);
     gui->setFontSize(OFX_UI_FONT_LARGE, 18);
 
-    ofxUIColor backgroundColor = ofxUIColor::lightCoral;
+    ofxUIColor backgroundColor = ofxUIColor::white;
     ofxUIColor fillColor = ofxUIColor::black;
     ofxUIColor fillHightlightColor = ofxUIColor::black;
     ofxUIColor outline = ofxUIColor::black;
@@ -244,6 +244,8 @@ void ofApp::reset()
 void ofApp::update(){
 
     this->videoGrabber->update();
+
+    ofLog() << "this->videoGrabber->isFrameNew(): " << this->videoGrabber->isFrameNew();
 
     if (this->gui->isVisible()) {
         return;
