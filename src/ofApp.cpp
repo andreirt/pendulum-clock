@@ -178,6 +178,7 @@ void ofApp::setup(){
 
     this->cameraPanel->loadSettings("camera.xml");
     this->imagePanel->loadSettings("image.xml");
+    this->gui->loadSettings("settings.xml");
 
     // reads values from controls and stores them into properties
     this->applyConfigurationChanges();
@@ -244,8 +245,6 @@ void ofApp::reset()
 void ofApp::update(){
 
     this->videoGrabber->update();
-
-    ofLog() << "this->videoGrabber->isFrameNew(): " << this->videoGrabber->isFrameNew();
 
     if (this->gui->isVisible()) {
         return;
@@ -456,22 +455,22 @@ void ofApp::guiEvent(ofxUIEventArgs &e)
 
 void ofApp::cameraPanelEvent(ofxUIEventArgs &e)
 {
-    if (e.getName() == ofApp::ZERO_DEGREES_LABEL) {
+    if (e.getName() == ofApp::ZERO_DEGREES_LABEL && e.getToggle()->getValue()) {
         this->ninetyRotationToggle->setValue(false);
         this->oneHundredEightyRotationToggle->setValue(false);
         this->twoHundredSeventyRotationToggle->setValue(false);
     }
-    else if (e.getName() == ofApp::NINETY_DEGREES_LABEL) {
+    else if (e.getName() == ofApp::NINETY_DEGREES_LABEL && e.getToggle()->getValue()) {
         this->zeroRotationToggle->setValue(false);
         this->oneHundredEightyRotationToggle->setValue(false);
         this->twoHundredSeventyRotationToggle->setValue(false);
     }
-    else if (e.getName() == ofApp::ONE_HUNDRED_EIGHTY_DEGREES_LABEL) {
+    else if (e.getName() == ofApp::ONE_HUNDRED_EIGHTY_DEGREES_LABEL && e.getToggle()->getValue()) {
         this->zeroRotationToggle->setValue(false);
         this->ninetyRotationToggle->setValue(false);
         this->twoHundredSeventyRotationToggle->setValue(false);
     }
-    else if (e.getName() == ofApp::TWO_HUNDRED_SEVENTY_DEGREES_LABEL) {
+    else if (e.getName() == ofApp::TWO_HUNDRED_SEVENTY_DEGREES_LABEL && e.getToggle()->getValue()) {
         this->zeroRotationToggle->setValue(false);
         this->ninetyRotationToggle->setValue(false);
         this->oneHundredEightyRotationToggle->setValue(false);
