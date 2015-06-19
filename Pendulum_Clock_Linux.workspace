@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Pendulum_Clock_Linux">
+		<Project filename="Pendulum_Clock_Linux.cbp" active="1">
+			<Depends filename="../../../libs/openFrameworksCompiled/project/linux64/libopenFrameworks.cbp" />
+		</Project>
+		<Project filename="../../../libs/openFrameworksCompiled/project/linux64/libopenFrameworks.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -17,6 +17,14 @@ const string ofApp::TWO_HUNDRED_SEVENTY_DEGREES_LABEL = "270 graus";
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+    this->selectedCameraIndex = 0;
+    this->step = 0;
+    this->maxSpeed = 16;
+    this->maxHeight = 48;
+    this->cameraWidth = 1280;
+    this->cameraHeight = 720;
+    this->lastTimeImageWasSaved = 0;
+    this->intervalToSaveImage = 15;
 
 	this->gui = new ofxUICanvas(0, 0, ofGetWidth(), ofGetHeight());
     this->gui->setWidgetSpacing(10);
