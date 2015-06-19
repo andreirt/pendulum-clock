@@ -57,6 +57,18 @@ void ofApp::setup(){
     this->cameraList = this->cameraPanel->addDropDownList("Escolha a câmera", *cameras, 300, 10);
     this->cameraList->setAllowMultiple(false);
     this->cameraList->setDrawOutline(true);
+    this->cameraList->setAutoClose(true);
+
+    vector<ofxUILabelToggle *> toggles = this->cameraList->getToggles();
+    vector<ofxUILabelToggle *>::iterator togglesIterator;
+
+    for (togglesIterator = toggles.begin(); togglesIterator != toggles.end(); ++togglesIterator) {
+        ofxUILabelToggle* labelToggle = *togglesIterator;
+        labelToggle->setColorFillHighlight(ofxUIColor::black);
+        labelToggle->setColorFill(ofxUIColor::white);
+        labelToggle->setColorOutlineHighlight(ofxUIColor::black);
+        labelToggle->setColorBack(ofxUIColor::white);
+    }
 
     this->cameraPanel->addWidgetDown( new ofxUILabel(170, ofApp::CAMERA_WIDTH_LABEL, OFX_UI_FONT_SMALL) );
     this->cameraWidthTextInput = new ofxUITextInput("CameraWidth", "1920", 80, 18) ;
@@ -206,7 +218,7 @@ void ofApp::reset()
     // set camera
     vector<int> selectedCamera = this->cameraList->getSelectedIndeces();
     if (selectedCamera.size() > 0) {
-        this->videoGrabber->setDeviceID( selectedCamera[0] - 1 );
+        this->videoGrabber->setDeviceID( selectedCamera[0] );
     }
     else {
         this->videoGrabber->setDeviceID( 0 );
