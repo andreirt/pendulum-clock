@@ -178,7 +178,7 @@ void ofApp::setup(){
     this->gui->addLabel("Integrante do projeto Máquinas do Tempo, desenvolvido com apoio da", OFX_UI_FONT_SMALL);
     this->gui->addLabel("Bolsa Funarte de Estímulo à Produção em Artes Visuais 2014", OFX_UI_FONT_SMALL);
     this->gui->addLabel("Desenvolvido em C++ / OpenFrameworks e distribuído sob a licença MPL", OFX_UI_FONT_SMALL);
-    this->gui->addLabel("Programação por Andrei Thomaz", OFX_UI_FONT_SMALL);
+    this->gui->addLabel("Programação por Andrei Thomaz e Vitor Andrioli", OFX_UI_FONT_SMALL);
     this->gui->addSpacer();
 
     this->gui->addLabel("Realização");
