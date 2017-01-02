@@ -140,7 +140,3 @@
 ################################################################################
 # PROJECT_CXX = 
 # PROJECT_CC = 
-
-ifndef APPNAME
-   APPNAME = Pendulum_Clock_Linux
-endif
