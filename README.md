@@ -4,7 +4,7 @@ Developed in C++ / OpenFrameworks by Andrei Thomaz, Victor Fornaciari and Vitor 
 
 http://maquinasdotempo.art.br
 
-https://github.com/andreirt/candle-clock
+https://github.com/andreirt/pendulum-clock
 
 ### Building with Code::Blocks (Windows)
 
