@@ -201,8 +201,8 @@ void ofApp::draw(){
     //Interface
     if(configurationPanelShow == true){
         gui->begin();
-        ImGui::SetNextWindowSize(ofVec2f(800,500));
-        ImGui::SetNextWindowPos(ImVec2(0, 0));
+        ImGui::SetNextWindowSize(ofVec2f(800,500), ImGuiSetCond_FirstUseEver);
+        ImGui::SetNextWindowPos(ImVec2(0, 0), ImGuiSetCond_FirstUseEver);
         ImGui::Begin(this->currentStrings["pendulumclock"].c_str());
         //ImGui::Text(this->currentStrings["pendulumclock"].c_str());
         if(ImGui::Button(this->changeLocaleLabel.c_str())){
