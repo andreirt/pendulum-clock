@@ -26,7 +26,7 @@ void ofApp::setup(){
     this->lastTimeImageWasSaved = 0;
     this->rotations = 0;
     this->selectedCameraIndex = 0;
-    this->currentLocale = LOCALE_PORTUGUESE;
+    this->currentLocale = LOCALE_ENGLISH;
     this->changeLocaleLabel = PORTUGUESE_LABEL;
     this->videoGrabber = new ofVideoGrabber();
     
@@ -51,7 +51,7 @@ void ofApp::setup(){
         
         strings.setToParent();
     }
-    this->currentStrings = this->ptStrings;
+    this->currentStrings = this->enStrings;
     
     this->loadXmlSettings();
     
@@ -204,7 +204,7 @@ void ofApp::draw(){
         ImGui::SetNextWindowSize(ofVec2f(800,500));
         ImGui::SetNextWindowPos(ImVec2(0, 0));
         ImGui::Begin(this->currentStrings["pendulumclock"].c_str());
-        ImGui::Text(this->currentStrings["pendulumclock"].c_str());
+        //ImGui::Text(this->currentStrings["pendulumclock"].c_str());
         if(ImGui::Button(this->changeLocaleLabel.c_str())){
             this->changeLocale();
         }
@@ -504,5 +504,11 @@ void ofApp::loadXmlSettings(){
         this->configurationPanelShow = settings.getValue<bool>("//SHOW_CONFIGURATION_PANEL");
     } else {
         this->configurationPanelShow = true;
+    }
+}
+//----------------------------------------------------------------------------------------------------------------------------
+void ofApp::mouseReleased(ofMouseEventArgs&){
+    if (this->configurationPanelShow == false) {
+        this->showConfigurationPanel();
     }
 }
